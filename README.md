@@ -17,6 +17,6 @@ Some of my projects:
 - [Art Quiz app (JavaScript)](https://skyress9.github.io/art-quiz/)
 - [Christmas App (React / TypeScript)](https://skyress9.github.io/christmas-app/)
 
-### Contacts:
+### Contacts
 
 - mail: skyressq9@gmail.com
