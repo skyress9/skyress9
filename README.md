@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 My name is Semyon and I'm Frontend developer. I love to write code and learn new technologies.
 
