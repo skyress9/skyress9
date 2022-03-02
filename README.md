@@ -19,4 +19,4 @@ Some of my projects:
 
 ### Contacts:
 
-- mail: skyressq9@gmail.com
+
