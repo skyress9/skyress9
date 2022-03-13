@@ -20,3 +20,4 @@ Some of my projects:
 ### Contacts
 
 - email: skyressq9@gmail.com
+- Telegram: @skyress9
